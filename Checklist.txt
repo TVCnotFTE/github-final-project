@@ -1,0 +1,20 @@
+# Doc outlining URLs for coursework: 
+
+1.  Create GitHub repository
+https://github.com/TVCnotFTE/github-final-project.git
+
+2.  Add a license file
+https://github.com/TVCnotFTE/github-final-project/blob/6c6e2579d7b6634f8567144c5db8b9f7afd00df2/LICENSE.md
+
+3.  Update README file
+https://github.com/TVCnotFTE/github-final-project/blob/3c2ccb0a35fc042a1808539773f9e805fb641f2c/README.md
+
+4.  Add Code of Conduct
+https://github.com/TVCnotFTE/github-final-project/blob/bd9e2a195cb5bf42bf0ae27dcb0bf39552de5c63/CODE_OF_CONDUCT.md
+
+5.  Add contribution guidelines
+https://github.com/TVCnotFTE/github-final-project/blob/844ca51dc04dbefec8c06f1d7e8bbd7ed4416de0/CONTRIBUTING.md
+
+6.  Host script file
+https://github.com/TVCnotFTE/github-final-project/blob/3fe23a54101862916601b8535a9dd03b5393b618/simple-interest.sh
+
